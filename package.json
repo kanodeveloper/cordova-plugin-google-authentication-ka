@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-google-authentication-ka",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Google Authentication",
+  "cordova": {
+    "id": "cordova-plugin-google-authentication-ka",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanodeveloper/cordova-plugin-google-authentication-ka.git"
+  },
+  "author": "Kano Apps (opensource@kanoapps.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/kanodeveloper/cordova-plugin-google-authentication-ka",
+  "keywords": [
+    "cordova",
+    "google",
+    "authentication"
+  ]
+}
